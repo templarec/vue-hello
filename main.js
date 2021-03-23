@@ -10,7 +10,8 @@ var app = new Vue(
 		el: "#root",
 		data: {
 			messaggio: "Primo messaggio con vue.js",
-			immagine: "https://picsum.photos/600/400"
+			immagine: "https://picsum.photos/600/400",
+			inputTxt: ""
 		}
 	}
 );
